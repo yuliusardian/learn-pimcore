@@ -86,7 +86,7 @@ save ""
 
 Go to your project directory and running this command on your terminal
 
-![](./assets/img/2019-11-17 23-24-32.png)
+![](assets/img/2019-11-17 23-24-32.png)
 
 ```bash
 COMPOSER_MEMORY_LIMIT=-1 composer -vvv create-project pimcore/skeleton myproject 
